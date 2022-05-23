@@ -42,4 +42,5 @@ Fim
 
 
 --------------------------------------------------------
-![censo_demografico_fluxograma](https://user-images.githubusercontent.com/103973688/169707976-9920b439-6797-402a-98cb-74de5aa52e0a.jpeg)
+![censo_demografico](https://user-images.githubusercontent.com/103973688/169865175-166e6bce-4f36-4045-9136-3411b36c06b3.png)
+
