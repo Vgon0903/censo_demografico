@@ -4,13 +4,39 @@ FOI FEITA UMA PESQUISA ENTRE OS 1000 HABITANTES DE UMA REGIÃO PARA COLETAR OS S
 
 Início
 
-     Enquanto Existem disciplinas? Faça
-          Enquanto Existem alunos? Faça
-		Ler as notas de um aluno da disciplina em questão
-		Calcular a nota final
-		Exibir sua nota
-          Fim Enquanto
-     Fim Enquanto    
+     Enquanto Existem gênero? Faça
+     
+     	  Ler gênero
+	   
+          Enquanto Existe altura? Faça
+	  
+	   Ler altura
+	   
+	  Enquanto Existe idade? Faça
+	  
+	   Ler idade
+	   
+		Calcular media da idade do grupo
+		
+		Exibir media da idade do grupo
+		
+		Calcular media da altura das mulheres
+		
+		Exibir media da altura das mulheres
+		
+		Calcular media da idade dos homens 
+		
+		Exibir media da idade dos homens
+		
+		Calcular quantidade de pessoas que se identificam como "outros"
+		
+		Exibir quantidade de pessoas que se identificam como "outros"
+		
+		Calcular porcentagem de pessoas com idade entre 18 e 35 anos
+		
+		Exibir porcentagem de pessoas com idade entre 18 e 35 anos
+		
+          Fim Enquanto    
 
 Fim
 
